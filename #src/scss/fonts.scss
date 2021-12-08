@@ -1,0 +1,17 @@
+@font-face {
+  font-family: 'GothamPro';
+
+  src:    url('https://nomail.com.ua/files/eot/aafeb23794c0546aa78e6d11e49ef908.eot?#iefix') format('embedded-opentype'),
+  url('https://nomail.com.ua/files/woff/aafeb23794c0546aa78e6d11e49ef908.woff') format('woff'),
+  url('https://nomail.com.ua/files/woff2/aafeb23794c0546aa78e6d11e49ef908.woff2') format('woff2');
+}
+
+@font-face { font-family: 'GothamPro';  src: local('GothamPro'), url('https://nomail.com.ua/files/woff/aafeb23794c0546aa78e6d11e49ef908.woff') format('woff'); }
+
+@font-face {
+  font-family: 'GothamPro';
+  src: url('#src/fonts/GothamProRegular.eot');
+  src: local('☺'), url('#src/fonts/GothamProRegular.woff') format('woff'), url('#src/fonts/GothamProRegular.ttf') format('truetype'), url('#src/fonts/GothamProRegular.svg') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
